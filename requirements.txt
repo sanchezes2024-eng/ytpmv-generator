@@ -1,0 +1,4 @@
+mido
+numpy
+scipy
+Pillow
