@@ -5,7 +5,7 @@ example
 ```python
 python3 main.py -v source_ciip.MP4  -m song.mid     -o ytpmv.mp4 
 ```
-yes this was vibecoded by chatgpt
+yes this was originally vibecoded by gemini and fixed by chatgpt
 
 ## how to setup
 
